@@ -1,3 +1,3 @@
 # TTIP-TaskMan-Documentacion
 
-![logo inicial] (/logo.png) 
+![logo inicial](/logo.png) 
