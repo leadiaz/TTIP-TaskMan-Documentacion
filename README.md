@@ -1,6 +1,6 @@
 # TTIP-TaskMan-Documentacion
 
-![logo inicial](/https://github.com/leadiaz/TTIP-TaskMan-Documentacion/blob/master/imagenes/logo.png) 
+![logo inicial](https://github.com/leadiaz/TTIP-TaskMan-Documentacion/blob/master/imagenes/logo.png) 
 
 
 [Backlog del proyecto y de los sprints](https://trello.com/b/cNE6ncDl/task-man)
